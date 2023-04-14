@@ -51,7 +51,7 @@ MySQL
 
 ### Modelo Relacional de la BD
 
-![Modelo Relacional de la BD](diagrama-3.png)
+![Modelo Relacional de la BD](https://raw.githubusercontent.com/LuisWork/sprint_modulo3/main/Diagrama%203%20Sprint.png)
 
 ---
 
